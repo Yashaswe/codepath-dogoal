@@ -27,9 +27,9 @@ The following REQUIRED features are completed:
 
 The following STRETCH features are implemented:
 
-- [ ] Create a custom-shape Button using Shape Drawables
-- [ ] Customize the text fonts by creating new Font Resources
-- [ ] Add Tooltips to your Views to help users understand how to navigate the UI
+- [x] Create a custom-shape Button using Shape Drawables
+- [x] Customize the text fonts by creating new Font Resources
+- [x] Add Tooltips to your Views to help users understand how to navigate the UI
 - [ ] Create a second layout, this time for an original, personal app idea
 
 The following EXTRA features are implemented:
@@ -38,9 +38,9 @@ The following EXTRA features are implemented:
 
 ## Chosen Screenshot
 
-I have chosen to duplicate the following layout from the **App Name Here** app:
+I have chosen to duplicate the following layout from the **Seven Goal Setting** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://github.com/Yashaswe/codepath-dogoal/assets/86225904/32a4f194-9bff-4ca9-93e8-f824ccfd0252' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
@@ -69,7 +69,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **yyyy** **Yashaswe Amatya**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
