@@ -8,7 +8,7 @@ Time spent: **3** hours spent in total
 
 ## Summary
 
-**Dogoal** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **The app **
+**Dogoal** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **DogGoals is an Android app developed in Android Studio aimed at helping dog owners set and track goals for their furry companions. This layout showcases a user-friendly interface designed specifically for setting personalized goals for dogs, including activities like fetch, sit, and high-five. Whether it's achieving training milestones or simply having fun bonding with your pet, DogGoals makes it easy to monitor and achieve your dog's goals. **
 
 If I had to describe this project in three (3) emojis, they would be: **🐶🎯💯**
 
