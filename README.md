@@ -40,13 +40,14 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Seven Goal Setting** app:
 
-<img src='https://github.com/Yashaswe/codepath-dogoal/assets/86225904/32a4f194-9bff-4ca9-93e8-f824ccfd0252' title='Chosen Screenshot' width='100px' alt='Chosen Screenshot' />
+<img src='https://github.com/Yashaswe/codepath-dogoal/assets/86225904/32a4f194-9bff-4ca9-93e8-f824ccfd0252' title='Chosen Screenshot' width='300px' alt='Chosen Screenshot' /> | <img width="300px" alt="Screenshot 2024-03-07 at 00 49 46" src="https://github.com/Yashaswe/codepath-dogoal/assets/86225904/c0470b89-09bc-4c11-a9e4-b3a65e45c3b4">
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://github.com/Yashaswe/codepath-dogoal/assets/86225904/04274e3e-6c7b-4c7a-8631-0648987629b1' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/Yashaswe/codepath-dogoal/assets/86225904/04274e3e-6c7b-4c7a-8631-0648987629b1' title='Video Demo' width='300px' alt='Video Demo' />
+
 
 
 GIF created with **ezgif**
