@@ -130,7 +130,7 @@ android:layout_marginLeft="20dp"
                     app:cardCornerRadius="150dp">
 
                     <ImageView
-                        android:tooltipText="Select your goals then continue"
+                        android:tooltipText="Select your goals to continue"
                         android:id="@+id/dog_highFive"
                         android:layout_width="70dp"
                         android:layout_height="70dp"
