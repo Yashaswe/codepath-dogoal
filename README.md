@@ -40,15 +40,16 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Seven Goal Setting** app:
 
-<img src='https://github.com/Yashaswe/codepath-dogoal/assets/86225904/32a4f194-9bff-4ca9-93e8-f824ccfd0252' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://github.com/Yashaswe/codepath-dogoal/assets/86225904/32a4f194-9bff-4ca9-93e8-f824ccfd0252' title='Chosen Screenshot' width='100px' alt='Chosen Screenshot' />
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/Yashaswe/codepath-dogoal/assets/86225904/04274e3e-6c7b-4c7a-8631-0648987629b1' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+
+GIF created with **ezgif**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
