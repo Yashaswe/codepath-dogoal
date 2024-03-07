@@ -34,6 +34,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
 android:layout_gravity="center"
+            android:fontFamily="@font/madimeonereg"
+
             android:text="Hey! Let's make you a workout plan."
 android:layout_marginLeft="20dp"
             android:textSize="10dp" />
@@ -50,6 +52,7 @@ android:layout_marginLeft="20dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="What's your goal?"
+        android:tooltipText="Select your goal to continue"
         android:textAlignment="center"
         android:textSize="10dp"
         android:layout_marginTop="100dp"
@@ -60,6 +63,7 @@ android:layout_marginLeft="20dp"
 
     <LinearLayout
         android:id="@+id/linearLayout"
+
         android:layout_width="wrap_content"
         android:layout_height="200dp"
         android:layout_marginTop="30dp"
@@ -126,6 +130,7 @@ android:layout_marginLeft="20dp"
                     app:cardCornerRadius="150dp">
 
                     <ImageView
+                        android:tooltipText="Select your goals then continue"
                         android:id="@+id/dog_highFive"
                         android:layout_width="70dp"
                         android:layout_height="70dp"
@@ -192,6 +197,7 @@ android:layout_marginLeft="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="168dp"
+        android:tooltipText="Already have an account then login"
         android:text="Have an Account? Login"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout"
         tools:layout_editor_absoluteX="135dp" />
@@ -199,6 +205,7 @@ android:layout_marginLeft="20dp"
     <Button
         android:id="@+id/button3"
         android:layout_width="300dp"
+
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:text="Continue"
@@ -216,5 +223,14 @@ android:layout_marginLeft="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button3" />
+
+    <ImageButton
+        android:id="@+id/imageButton8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:background="@color/white"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        app:srcCompat="@drawable/buttonshape" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
